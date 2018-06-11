@@ -1,0 +1,44 @@
+/* style.css for personal website project */
+body{
+	background-color:pink;
+	margin: 0;
+}
+
+h1{
+		margin-top: 0;
+		padding: 10px;
+}
+
+img{
+		width: 400px;
+}
+
+
+#menu li {
+	display: inline;
+}
+#content img{
+	float: left;
+	margin-right: 10px
+	
+}
+#content{
+	height: 410px
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#container{ background-color:white;
+			width: 1000px;
+			margin:0 auto;
+			padding: 10px;
+
+}
+
+#footer{
+		text-align: center;
+		border-top: 1px solid black;
+		padding-bottom: 1px;
+}
